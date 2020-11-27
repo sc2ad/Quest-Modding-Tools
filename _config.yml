@@ -7,4 +7,11 @@ include:
   - README.md
   - LICENSE.md
 
-theme: jekyll-theme-midnight
+title: Quest Modding Tools
+description: Tools for modding Quest applications.
+baseurl: "/Quest-Modding-Tools"
+url: "https://sc2ad.github.io"
+
+permalink: pretty
+
+theme: just-the-docs
