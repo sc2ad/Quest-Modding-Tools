@@ -14,4 +14,4 @@ url: "https://sc2ad.github.io"
 
 permalink: pretty
 
-theme: just-the-docs
+theme: jekyll-theme-midnight
